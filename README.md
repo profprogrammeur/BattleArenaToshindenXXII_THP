@@ -12,5 +12,5 @@ mainly vanilla JS
 ## Running it
   * clone the repo
   * just launch the **index.html** file in a random web-browser
-  * open the console 
+  * open the console (press f12)
   * let's boogie with alert 
